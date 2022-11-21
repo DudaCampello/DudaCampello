@@ -1,4 +1,4 @@
-:woman_technologist: Sou formada em Administração de Empresas, Pós-Graduada em Gestão da Qualidade em Serviço e em transição de carreira e junção de conhecimento.
+:woman_technologist: Formada em Administração de Empresas com Pós-graduação em Gestão da Qualidade em Serviço e em transição de carreira!
 
 Atualmente estou me especializando em desenvolvimento back-end, Java e Python na Cesar School, e Java na Digital Innovation One.
 
